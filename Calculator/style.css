@@ -1,0 +1,54 @@
+.main{
+    border: 1px solid black;
+    width: 200px;
+    margin: 0 auto;
+    background-color: moccasin;
+}
+
+.result{
+    width: 186px;
+    height: 25px;
+    background-color: lightgray;
+    color: black;
+    margin: 0 auto;
+    margin: 5px;
+    border: 1px;
+}
+
+.result:hover {
+    background-color: whitesmoke !important;
+}
+
+.clearBTN{
+    background-color: red !important; 
+}
+
+.clearBTN:hover {
+    background-color: lightcoral !important;
+}
+
+.eq{
+    background-color: green !important; 
+}
+
+.eq:hover {
+    background-color: lightgreen !important;
+}
+
+.cal{
+    background-color: lightblue !important; 
+}
+
+.cal:hover {
+    background-color: blue !important;
+}
+
+.btn{
+    background-color: grey;
+    width: 45px;
+    margin: 1px;
+}
+
+.btn:hover {
+    background-color: lightgray;
+}
